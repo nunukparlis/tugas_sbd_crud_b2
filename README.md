@@ -32,6 +32,27 @@
 # TAMPILAN ADD PEMBELI
 ![image](https://user-images.githubusercontent.com/81863210/123508673-fe054d00-d69a-11eb-9235-7e9b0c0cc22c.png)
 # TAMPILAN SETELAH MENAMBAHKAN PEMBELI
+![image](https://user-images.githubusercontent.com/81863210/123508833-027e3580-d69c-11eb-89cb-5dc410313b61.png)
 # TAMPILAN ADD PRODUK
+![image](https://user-images.githubusercontent.com/81863210/123508892-5557ed00-d69c-11eb-960e-6ee8293f0bb3.png)
+# TAMPILAN SETELAH MENAMBAHKAN PRODUK
+![image](https://user-images.githubusercontent.com/81863210/123508900-715b8e80-d69c-11eb-8ace-6de2cbecfb7c.png)
+# TAMPILAN ADD TRANSAKSI
+![image](https://user-images.githubusercontent.com/81863210/123508967-e8912280-d69c-11eb-833c-cdc17a4b178f.png)
+# TAMPILAN SETELAH ADD TRANSAKSI
+![image](https://user-images.githubusercontent.com/81863210/123509145-1165e780-d69e-11eb-9d2d-b4bbef14dd0d.png)
+# EDIT PRODUK
+![image](https://user-images.githubusercontent.com/81863210/123509177-2b072f00-d69e-11eb-8b3b-03b0bdbdf7da.png)
+# EDIT PEMBELI
+![image](https://user-images.githubusercontent.com/81863210/123509199-407c5900-d69e-11eb-8a0c-af662f43f710.png)
+# EDIT TRANSAKSI
+![image](https://user-images.githubusercontent.com/81863210/123509214-52f69280-d69e-11eb-91c6-59846d6bed9c.png)
+# DELETE TRANSAKSI
+![image](https://user-images.githubusercontent.com/81863210/123509237-6f92ca80-d69e-11eb-9bd2-4f91191bd855.png)
+# DELETE PEMBELI
+![image](https://user-images.githubusercontent.com/81863210/123509258-8b966c00-d69e-11eb-83b9-481364b037c3.png)
+# DELETE PRODUK
+![image](https://user-images.githubusercontent.com/81863210/123509266-9ea93c00-d69e-11eb-9ec0-a264ec4b3ffb.png)
+
 
 
